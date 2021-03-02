@@ -5,7 +5,7 @@ using lat,lon coordinates to query REST endpoint
 
 __author__ = "Justin Johnson"
 __email__ = "authalic@gmail.com"
-__date__ = "23 Feb, 2021"
+__date__ = "02 Mar, 2021"
 __version__ = "1.0"
 __status__ = "Production"
 
